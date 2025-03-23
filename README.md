@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Edna Memedula!
+# 👋 Hey there, I'm Edna!
 
 🎓 I’m a first-year **Master's student** in **Cybersecurity & Machine Learning** at Ovidius University, Constanța.
 
