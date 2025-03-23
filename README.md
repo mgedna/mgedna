@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Edna Memedula!
 
-🎓 I’m a first-year **Master's student** in **Cybersecurity & Machine Learning** at Ovidius University, Constanța.  
+🎓 I’m a first-year **Master's student** in **Cybersecurity & Machine Learning** at Ovidius University, Constanța.
+💻 Junior Software Engineer passionate about real-world development, from backend systems to intelligent ML-driven apps.
+🌍 I’m open to relocation and excited to grow in dynamic, forward-thinking teams.
 🔐⚙️ I’m passionate about **backend development**, **mobile app development**, and building intelligent systems powered by **machine learning**.
 
 I’m not just learning concepts — I’m applying them daily through real-world projects involving structured data, ML models, and backend infrastructure.
